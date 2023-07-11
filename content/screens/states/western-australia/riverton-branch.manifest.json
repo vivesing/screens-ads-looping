@@ -1,0 +1,31 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1688998727882,
+  "entries": [
+    {
+      "path": "/content/screens/states/western-australia/riverton-branch.html",
+      "timestamp": 1688998727740
+    },
+    {
+      "path": "/content/screens/assets/automobile.png",
+      "timestamp": 1688629541000
+    },
+    {
+      "path": "/content/screens/assets/real-estate1.png",
+      "timestamp": 1688629265000
+    },
+    {
+      "path": "/content/screens/assets/real-estate2.png",
+      "timestamp": 1688629266000
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1688998728943,
+  "entries": [
+    {
+      "path": "/content/screens/states/tasmania/hobart-branch.html",
+      "timestamp": 1688977671000
+    },
+    {
+      "path": "/content/screens/assets/dog1-final.jpeg",
+      "timestamp": 1688564863000
+    },
+    {
+      "path": "/content/screens/assets/cba-global.jpeg",
+      "timestamp": 1688564862000
+    },
+    {
+      "path": "/content/screens/assets/notice.png",
+      "timestamp": 1688644797000
+    },
+    {
+      "path": "/content/screens/assets/westernaus.png",
+      "timestamp": 1688622216000
+    }
+  ]
+}

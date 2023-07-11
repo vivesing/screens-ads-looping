@@ -1,0 +1,31 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1685526989728,
+  "entries": [
+    {
+      "path": "/content/screens/employee-communications/locations/global/north-america/test-us.html",
+      "timestamp": 1683704102000
+    },
+    {
+      "path": "/content/screens/assets/test-global-slide.png",
+      "timestamp": 1683568537000
+    },
+    {
+      "path": "/content/screens/assets/test-north-america-slide.png",
+      "timestamp": 1683568540000
+    },
+    {
+      "path": "/content/screens/assets/test-us-slide.png",
+      "timestamp": 1683568543000
+    }
+  ]
+}
