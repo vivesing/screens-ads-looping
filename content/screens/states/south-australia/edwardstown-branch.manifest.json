@@ -9,27 +9,23 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1688998729412,
+  "timestamp": 1691054182471,
   "entries": [
     {
       "path": "/content/screens/states/south-australia/edwardstown-branch.html",
-      "timestamp": 1688977671000
+      "timestamp": 1691054182254
     },
     {
       "path": "/content/screens/assets/dog1-final.jpeg",
-      "timestamp": 1688564863000
+      "timestamp": 1689058513000
     },
     {
       "path": "/content/screens/assets/cba-global.jpeg",
-      "timestamp": 1688564862000
-    },
-    {
-      "path": "/content/screens/assets/notice.png",
-      "timestamp": 1688644797000
+      "timestamp": 1689058516000
     },
     {
       "path": "/content/screens/assets/westernaus.png",
-      "timestamp": 1688622216000
+      "timestamp": 1689058502000
     }
   ]
 }

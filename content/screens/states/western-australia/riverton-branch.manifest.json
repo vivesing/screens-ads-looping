@@ -9,23 +9,51 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1688998727882,
+  "timestamp": 1691054179912,
   "entries": [
     {
       "path": "/content/screens/states/western-australia/riverton-branch.html",
-      "timestamp": 1688998727740
+      "timestamp": 1691053532000
     },
     {
-      "path": "/content/screens/assets/automobile.png",
-      "timestamp": 1688629541000
+      "path": "/content/screens/assets/dog1-final.jpeg",
+      "timestamp": 1689058513000
+    },
+    {
+      "path": "/content/screens/assets/cba-global.jpeg",
+      "timestamp": 1689058516000
+    },
+    {
+      "path": "/content/screens/assets/westernaus.png",
+      "timestamp": 1689058502000
+    },
+    {
+      "path": "/content/screens/assets/riverton-branch.png",
+      "timestamp": 1689058502000
     },
     {
       "path": "/content/screens/assets/real-estate1.png",
-      "timestamp": 1688629265000
+      "timestamp": 1689058506000
     },
     {
       "path": "/content/screens/assets/real-estate2.png",
-      "timestamp": 1688629266000
+      "timestamp": 1689058506000
+    },
+    {
+      "path": "/content/screens/assets/automobile.png",
+      "timestamp": 1689058518000
+    },
+    {
+      "path": "/content/screens/assets/educationads.png",
+      "timestamp": 1689058512000
+    },
+    {
+      "path": "/content/screens/assets/coca-cola.jpeg",
+      "timestamp": 1689058515000
+    },
+    {
+      "path": "/content/screens/assets/nike-running-isn-t-just-running-spec-ad.mp4",
+      "timestamp": 1689058510000
     }
   ]
 }

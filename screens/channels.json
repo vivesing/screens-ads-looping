@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/states/western-australia/riverton-branch.manifest.json",
-      "lastModified": "2023-07-10T14:18:47.740Z",
+      "lastModified": "2023-08-03T09:05:32.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -19,11 +19,11 @@
       ],
       "externalId": "/content/screens/states/western-australia/riverton-branch",
       "title": "Riverton Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/riverton-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/riverton-branch.html"
     },
     {
       "manifestPath": "/content/screens/states/western-australia/95-william-st-perth-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:52.000Z",
+      "lastModified": "2023-08-03T09:16:20.088Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -44,7 +44,7 @@
     },
     {
       "manifestPath": "/content/screens/states/victoria/bayswater-branch.manifest.json",
-      "lastModified": "2023-07-10T09:27:52.000Z",
+      "lastModified": "2023-08-03T09:16:20.401Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -65,7 +65,7 @@
     },
     {
       "manifestPath": "/content/screens/states/victoria/richmond-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:20.725Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -86,7 +86,7 @@
     },
     {
       "manifestPath": "/content/screens/states/tasmania/launceston-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:21.045Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -107,7 +107,7 @@
     },
     {
       "manifestPath": "/content/screens/states/tasmania/hobart-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:21.422Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -128,7 +128,7 @@
     },
     {
       "manifestPath": "/content/screens/states/south-australia/king-william-st-adelaide-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:21.877Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -149,7 +149,7 @@
     },
     {
       "manifestPath": "/content/screens/states/south-australia/edwardstown-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:22.254Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -170,7 +170,7 @@
     },
     {
       "manifestPath": "/content/screens/states/queensland/fortitude-valley-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:22.683Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -191,7 +191,7 @@
     },
     {
       "manifestPath": "/content/screens/states/queensland/queen-st-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:23.195Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -212,7 +212,7 @@
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/marrickville-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:23.522Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -233,7 +233,7 @@
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/town-hall-branch.manifest.json",
-      "lastModified": "2023-07-10T08:27:51.000Z",
+      "lastModified": "2023-08-03T09:16:23.822Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -254,7 +254,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/branch-closed-notice.manifest.json",
-      "lastModified": "2023-07-10T08:27:52.000Z",
+      "lastModified": "2023-08-03T09:16:24.210Z",
       "hierarchy": [
         {
           "title": "screens",
