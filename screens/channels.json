@@ -272,6 +272,27 @@
       "externalId": "/content/screens/states/western-australia/branch-closed-notice",
       "title": "Branch Closed Notice",
       "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/branch-closed-notice.html"
+    },
+    {
+      "manifestPath": "/content/screens/states/western-australia/asprey-ads.manifest.json",
+      "lastModified": "2023-08-16T12:25:27.185Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "states",
+          "path": "/content/screens/states"
+        },
+        {
+          "title": "western-australia",
+          "path": "/content/screens/states/western-australia"
+        }
+      ],
+      "externalId": "/content/screens/states/western-australia/asprey-ads",
+      "title": "Asprey Looping Ads",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/asprey-ads.html"
     }
   ],
   "metadata": {

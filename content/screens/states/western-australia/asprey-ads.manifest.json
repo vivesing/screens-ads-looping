@@ -1,0 +1,35 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1692188727870,
+  "entries": [
+    {
+      "path": "/content/screens/states/western-australia/asprey-ads.html",
+      "timestamp": 1692188727185
+    },
+    {
+      "path": "/content/screens/assets/asprey1.jpeg",
+      "timestamp": 1692185783000
+    },
+    {
+      "path": "/content/screens/assets/asprey2.jpeg",
+      "timestamp": 1692185782000
+    },
+    {
+      "path": "/content/screens/assets/asprey3.jpeg",
+      "timestamp": 1692185779000
+    },
+    {
+      "path": "/content/screens/assets/asprey4.jpeg",
+      "timestamp": 1692185779000
+    }
+  ]
+}
