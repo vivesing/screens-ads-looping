@@ -293,6 +293,27 @@
       "externalId": "/content/screens/states/western-australia/asprey-ads",
       "title": "Asprey Looping Ads",
       "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/asprey-ads.html"
+    },
+    {
+      "manifestPath": "/content/screens/states/western-australia/petplace-ads.manifest.json",
+      "lastModified": "2023-08-18T06:57:52.553Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "states",
+          "path": "/content/screens/states"
+        },
+        {
+          "title": "western-australia",
+          "path": "/content/screens/states/western-australia"
+        }
+      ],
+      "externalId": "/content/screens/states/western-australia/petplace-ads",
+      "title": "PetPlace Looping Ads",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/petplace-ads.html"
     }
   ],
   "metadata": {

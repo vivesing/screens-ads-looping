@@ -1,0 +1,27 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1692341872850,
+  "entries": [
+    {
+      "path": "/content/screens/states/western-australia/petplace-ads.html",
+      "timestamp": 1692341872553
+    },
+    {
+      "path": "/content/screens/assets/petplace1.png",
+      "timestamp": 1692340401000
+    },
+    {
+      "path": "/content/screens/assets/petplace2.png",
+      "timestamp": 1692340401000
+    }
+  ]
+}
