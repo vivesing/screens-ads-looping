@@ -1,0 +1,31 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1692624952929,
+  "entries": [
+    {
+      "path": "/content/screens/states/western-australia/mack-ads.html",
+      "timestamp": 1692624952247
+    },
+    {
+      "path": "/content/screens/assets/mack1.png",
+      "timestamp": 1692623311000
+    },
+    {
+      "path": "/content/screens/assets/mack2.png",
+      "timestamp": 1692623308000
+    },
+    {
+      "path": "/content/screens/assets/mack3.png",
+      "timestamp": 1692623307000
+    }
+  ]
+}
