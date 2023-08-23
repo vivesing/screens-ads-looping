@@ -335,6 +335,27 @@
       "externalId": "/content/screens/states/western-australia/mack-ads",
       "title": "Mack Trucks Looping Ads",
       "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/mack-ads.html"
+    },
+    {
+      "manifestPath": "/content/screens/states/western-australia/alexforbes-poster.manifest.json",
+      "lastModified": "2023-08-23T08:29:46.915Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "states",
+          "path": "/content/screens/states"
+        },
+        {
+          "title": "western-australia",
+          "path": "/content/screens/states/western-australia"
+        }
+      ],
+      "externalId": "/content/screens/states/western-australia/alexforbes-poster",
+      "title": "AlexForbes Looping Poster",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/alexforbes-poster.html"
     }
   ],
   "metadata": {

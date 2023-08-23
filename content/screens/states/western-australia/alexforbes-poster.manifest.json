@@ -1,0 +1,27 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1692779387218,
+  "entries": [
+    {
+      "path": "/content/screens/states/western-australia/alexforbes-poster.html",
+      "timestamp": 1692779386915
+    },
+    {
+      "path": "/content/screens/assets/alexforbes1.png",
+      "timestamp": 1692778938000
+    },
+    {
+      "path": "/content/screens/assets/alexforbes2.png",
+      "timestamp": 1692778937000
+    }
+  ]
+}
