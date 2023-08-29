@@ -1,0 +1,35 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1693305230598,
+  "entries": [
+    {
+      "path": "/content/screens/states/western-australia/wesco-ads.html",
+      "timestamp": 1693305229892
+    },
+    {
+      "path": "/content/screens/assets/eecolposter1.png",
+      "timestamp": 1693303448000
+    },
+    {
+      "path": "/content/screens/assets/eecolposter2.png",
+      "timestamp": 1693303445000
+    },
+    {
+      "path": "/content/screens/assets/eecolposter3.png",
+      "timestamp": 1693303441000
+    },
+    {
+      "path": "/content/screens/assets/eecolposter4.png",
+      "timestamp": 1693303441000
+    }
+  ]
+}

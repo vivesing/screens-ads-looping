@@ -356,6 +356,27 @@
       "externalId": "/content/screens/states/western-australia/alexforbes-poster",
       "title": "AlexForbes Looping Poster",
       "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/alexforbes-poster.html"
+    },
+    {
+      "manifestPath": "/content/screens/states/western-australia/wesco-ads.manifest.json",
+      "lastModified": "2023-08-29T10:33:49.892Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "states",
+          "path": "/content/screens/states"
+        },
+        {
+          "title": "western-australia",
+          "path": "/content/screens/states/western-australia"
+        }
+      ],
+      "externalId": "/content/screens/states/western-australia/wesco-ads",
+      "title": "Wesco Looping Ads",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/wesco-ads.html"
     }
   ],
   "metadata": {
