@@ -1,0 +1,47 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1696583653963,
+  "entries": [
+    {
+      "path": "/content/screens/locations/delhi/delhi-t3-terminal.html",
+      "timestamp": 1696583652501
+    },
+    {
+      "path": "/content/screens/assets/indigoglobal1.jpeg",
+      "timestamp": 1696499430000
+    },
+    {
+      "path": "/content/screens/assets/indigoglobal2.jpeg",
+      "timestamp": 1696499427000
+    },
+    {
+      "path": "/content/screens/assets/indigoigi1.jpg",
+      "timestamp": 1696499423000
+    },
+    {
+      "path": "/content/screens/assets/indigohotel.png",
+      "timestamp": 1696499427000
+    },
+    {
+      "path": "/content/screens/assets/indigo6eposter.png",
+      "timestamp": 1696499433000
+    },
+    {
+      "path": "/content/screens/assets/indigoposter2.png",
+      "timestamp": 1696499664000
+    },
+    {
+      "path": "/content/screens/assets/indigomeal.png",
+      "timestamp": 1696499424000
+    }
+  ]
+}

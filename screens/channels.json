@@ -377,6 +377,27 @@
       "externalId": "/content/screens/states/western-australia/wesco-ads",
       "title": "Wesco Looping Ads",
       "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/wesco-ads.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/delhi/delhi-t3-terminal.manifest.json",
+      "lastModified": "2023-10-06T09:14:12.501Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "delhi",
+          "path": "/content/screens/locations/delhi"
+        }
+      ],
+      "externalId": "/content/screens/locations/delhi/delhi-t3-terminal",
+      "title": "Delhi T3 Terminal Checkin Area",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/delhi/delhi-t3-terminal.html"
     }
   ],
   "metadata": {
