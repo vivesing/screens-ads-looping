@@ -1,0 +1,18 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1697029718174,
+  "entries": [
+    {
+      "path": "/content/screens/locations/US/Florida/daytona-beach-store.html"
+    }
+  ]
+}

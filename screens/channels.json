@@ -398,6 +398,31 @@
       "externalId": "/content/screens/locations/delhi/delhi-t3-terminal",
       "title": "Delhi T3 Terminal Checkin Area",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/delhi/delhi-t3-terminal.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/US/Florida/daytona-beach-store.manifest.json",
+      "lastModified": "1970-01-01T00:00:00.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "US",
+          "path": "/content/screens/locations/US"
+        },
+        {
+          "title": "Florida",
+          "path": "/content/screens/locations/US/Florida"
+        }
+      ],
+      "externalId": "/content/screens/locations/US/Florida/daytona-beach-store",
+      "title": "Daytona Beach Store",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/US/Florida/daytona-beach-store.html"
     }
   ],
   "metadata": {
