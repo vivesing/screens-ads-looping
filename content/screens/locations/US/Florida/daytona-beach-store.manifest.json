@@ -9,10 +9,35 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1697029718174,
+  "timestamp": 1697029814518,
   "entries": [
     {
-      "path": "/content/screens/locations/US/Florida/daytona-beach-store.html"
+      "path": "/content/screens/locations/US/Florida/daytona-beach-store.html",
+      "timestamp": 1697029813899
+    },
+    {
+      "path": "/content/screens/assets/dicks-global1.jpeg",
+      "timestamp": 1697028907000
+    },
+    {
+      "path": "/content/screens/assets/dicks-global2.jpeg",
+      "timestamp": 1697028903000
+    },
+    {
+      "path": "/content/screens/assets/dicks-florida1.jpeg",
+      "timestamp": 1697028906000
+    },
+    {
+      "path": "/content/screens/assets/dicks-mens.mp4",
+      "timestamp": 1697028903000
+    },
+    {
+      "path": "/content/screens/assets/dicks-women.png",
+      "timestamp": 1697028899000
+    },
+    {
+      "path": "/content/screens/assets/dicks-outdoor.png",
+      "timestamp": 1697028900000
     }
   ]
 }
