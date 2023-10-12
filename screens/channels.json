@@ -401,7 +401,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/US/Florida/daytona-beach-store.manifest.json",
-      "lastModified": "2023-10-12T10:45:24.380Z",
+      "lastModified": "2023-10-12T10:45:32.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -423,6 +423,31 @@
       "externalId": "/content/screens/locations/US/Florida/daytona-beach-store",
       "title": "Wesco Daytona Beach Store",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/US/Florida/daytona-beach-store.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/US/Florida/brooksville-store.manifest.json",
+      "lastModified": "2023-10-12T10:48:03.915Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "US",
+          "path": "/content/screens/locations/US"
+        },
+        {
+          "title": "Florida",
+          "path": "/content/screens/locations/US/Florida"
+        }
+      ],
+      "externalId": "/content/screens/locations/US/Florida/brooksville-store",
+      "title": "Wesco Brooksville Store",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/US/Florida/brooksville-store.html"
     }
   ],
   "metadata": {
