@@ -9,35 +9,43 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1697107106505,
+  "timestamp": 1697107525313,
   "entries": [
     {
       "path": "/content/screens/locations/US/Florida/daytona-beach-store.html",
-      "timestamp": 1697029821000
+      "timestamp": 1697107524380
     },
     {
-      "path": "/content/screens/assets/dicks-global1.jpeg",
-      "timestamp": 1697028907000
+      "path": "/content/screens/assets/wesco-global1.jpeg",
+      "timestamp": 1697106440000
     },
     {
-      "path": "/content/screens/assets/dicks-global2.jpeg",
-      "timestamp": 1697028903000
+      "path": "/content/screens/assets/wesco-global2.jpeg",
+      "timestamp": 1697106437000
     },
     {
-      "path": "/content/screens/assets/dicks-florida1.jpeg",
-      "timestamp": 1697028906000
+      "path": "/content/screens/assets/wesco-short.mp4",
+      "timestamp": 1697106438000
     },
     {
-      "path": "/content/screens/assets/dicks-mens.mp4",
-      "timestamp": 1697028903000
+      "path": "/content/screens/assets/wesco-electronics1.jpeg",
+      "timestamp": 1697106444000
     },
     {
-      "path": "/content/screens/assets/dicks-women.png",
-      "timestamp": 1697028899000
+      "path": "/content/screens/assets/wesco-electronics2.jpeg",
+      "timestamp": 1697106443000
     },
     {
-      "path": "/content/screens/assets/dicks-outdoor.png",
-      "timestamp": 1697028900000
+      "path": "/content/screens/assets/wesco-event1.jpeg",
+      "timestamp": 1697106441000
+    },
+    {
+      "path": "/content/screens/assets/wesco-stanley.jpeg",
+      "timestamp": 1697106434000
+    },
+    {
+      "path": "/content/screens/assets/wesco-solaredge.jpeg",
+      "timestamp": 1697106434000
     }
   ]
 }

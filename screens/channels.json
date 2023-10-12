@@ -401,7 +401,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/US/Florida/daytona-beach-store.manifest.json",
-      "lastModified": "2023-10-11T13:10:21.000Z",
+      "lastModified": "2023-10-12T10:45:24.380Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -421,7 +421,7 @@
         }
       ],
       "externalId": "/content/screens/locations/US/Florida/daytona-beach-store",
-      "title": "Daytona Beach Store",
+      "title": "Wesco Daytona Beach Store",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/US/Florida/daytona-beach-store.html"
     }
   ],
