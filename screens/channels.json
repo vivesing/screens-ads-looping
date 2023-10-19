@@ -448,6 +448,31 @@
       "externalId": "/content/screens/locations/US/Florida/brooksville-store",
       "title": "Wesco Brooksville Store",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/US/Florida/brooksville-store.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.manifest.json",
+      "lastModified": "2023-10-19T11:56:12.836Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "Canada",
+          "path": "/content/screens/locations/Canada"
+        },
+        {
+          "title": "Toronto",
+          "path": "/content/screens/locations/Canada/Toronto"
+        }
+      ],
+      "externalId": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word",
+      "title": "LCBO 200 Bay St Store Word",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.html"
     }
   ],
   "metadata": {

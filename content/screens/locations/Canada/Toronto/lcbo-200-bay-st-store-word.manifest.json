@@ -1,0 +1,55 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1697716574165,
+  "entries": [
+    {
+      "path": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.html",
+      "timestamp": 1697716572836
+    },
+    {
+      "path": "/content/screens/assets/lcbo-canada.jpeg",
+      "timestamp": 1697713426000
+    },
+    {
+      "path": "/content/screens/assets/lcbo-toronto.png",
+      "timestamp": 1697713423000
+    },
+    {
+      "path": "/content/screens/assets/lcbo-beer2.jpeg",
+      "timestamp": 1697713430000
+    },
+    {
+      "path": "/media_1a458d7aae0bbdebead102d0203fa2b59c01a1f3a.mp4",
+      "timestamp": 1697714610000
+    },
+    {
+      "path": "/content/screens/assets/lcbo-wine1.jpeg",
+      "timestamp": 1697713420000
+    },
+    {
+      "path": "/media_1d1564ce60f3331cb10ff738b77b1ed844009e915.mp4",
+      "timestamp": 1697714239000
+    },
+    {
+      "path": "/content/screens/assets/lcbo-spirit1.png",
+      "timestamp": 1697713426000
+    },
+    {
+      "path": "/content/screens/assets/lcbo-spirit4.png",
+      "timestamp": 1697713576000
+    },
+    {
+      "path": "/content/screens/assets/lcbo-storeoffer.png",
+      "timestamp": 1697715616000
+    }
+  ]
+}
