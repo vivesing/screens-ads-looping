@@ -317,7 +317,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/mack-ads.manifest.json",
-      "lastModified": "2023-09-22T09:52:35.000Z",
+      "lastModified": "2023-08-21T13:35:57.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -451,7 +451,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.manifest.json",
-      "lastModified": "2023-10-19T11:56:12.836Z",
+      "lastModified": "2023-10-19T11:56:18.000Z",
       "hierarchy": [
         {
           "title": "screens",
