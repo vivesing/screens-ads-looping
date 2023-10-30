@@ -473,6 +473,35 @@
       "externalId": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word",
       "title": "LCBO 200 Bay St Store Word",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.manifest.json",
+      "lastModified": "2023-10-30T14:08:38.483Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "Europe",
+          "path": "/content/screens/locations/Europe"
+        },
+        {
+          "title": "Germany",
+          "path": "/content/screens/locations/Europe/Germany"
+        },
+        {
+          "title": "berlin",
+          "path": "/content/screens/locations/Europe/Germany/berlin"
+        }
+      ],
+      "externalId": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456",
+      "title": "BE St-56 Showroom VW-456 Word",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.html"
     }
   ],
   "metadata": {

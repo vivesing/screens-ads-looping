@@ -1,0 +1,55 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1698674919913,
+  "entries": [
+    {
+      "path": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.html",
+      "timestamp": 1698674918483
+    },
+    {
+      "path": "/content/screens/assets/vw-suv1.png",
+      "timestamp": 1698673620000
+    },
+    {
+      "path": "/content/screens/assets/vw-suv3.png",
+      "timestamp": 1698673619000
+    },
+    {
+      "path": "/media_1746812362b6c68dbc47441c5c1a4db30561da36b.mp4",
+      "timestamp": 1698672546000
+    },
+    {
+      "path": "/content/screens/assets/vw-compact1.png",
+      "timestamp": 1698673631000
+    },
+    {
+      "path": "/content/screens/assets/vw-compact2.png",
+      "timestamp": 1698673628000
+    },
+    {
+      "path": "/content/screens/assets/vw-electric2.png",
+      "timestamp": 1698673626000
+    },
+    {
+      "path": "/content/screens/assets/vw-electric3.png",
+      "timestamp": 1698673624000
+    },
+    {
+      "path": "/media_1d3255916996d1232255fa4af455da70eed0e8ee2.mp4",
+      "timestamp": 1698673342000
+    },
+    {
+      "path": "/content/screens/assets/vw-berlin.png",
+      "timestamp": 1698673633000
+    }
+  ]
+}
