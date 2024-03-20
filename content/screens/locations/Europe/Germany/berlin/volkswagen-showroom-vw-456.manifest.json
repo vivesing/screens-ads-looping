@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1700731490944,
+  "timestamp": 1710915509085,
   "entries": [
     {
       "path": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.html",
-      "timestamp": 1698674925000
+      "timestamp": 1710915508202
     },
     {
       "path": "/content/screens/assets/vw-suv1.png",
@@ -26,6 +26,10 @@
     {
       "path": "/media_1746812362b6c68dbc47441c5c1a4db30561da36b.mp4",
       "timestamp": 1698672546000
+    },
+    {
+      "path": "/content/screens/assets/media_1248268553d8fb34577acd2f2008cbb20939b99a3.jpeg",
+      "timestamp": 1710914232000
     },
     {
       "path": "/content/screens/assets/vw-compact1.png",

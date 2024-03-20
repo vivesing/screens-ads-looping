@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/states/western-australia/riverton-branch.manifest.json",
-      "lastModified": "2023-08-03T09:49:19.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -23,7 +23,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/95-william-st-perth-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -44,7 +44,7 @@
     },
     {
       "manifestPath": "/content/screens/states/victoria/bayswater-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -65,7 +65,7 @@
     },
     {
       "manifestPath": "/content/screens/states/victoria/richmond-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -86,7 +86,7 @@
     },
     {
       "manifestPath": "/content/screens/states/tasmania/launceston-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -107,7 +107,7 @@
     },
     {
       "manifestPath": "/content/screens/states/tasmania/hobart-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -128,7 +128,7 @@
     },
     {
       "manifestPath": "/content/screens/states/south-australia/king-william-st-adelaide-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -149,7 +149,7 @@
     },
     {
       "manifestPath": "/content/screens/states/south-australia/edwardstown-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -170,7 +170,7 @@
     },
     {
       "manifestPath": "/content/screens/states/queensland/fortitude-valley-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:29.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -191,7 +191,7 @@
     },
     {
       "manifestPath": "/content/screens/states/queensland/queen-st-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -212,7 +212,7 @@
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/marrickville-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -233,7 +233,7 @@
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/town-hall-branch.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -254,7 +254,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/branch-closed-notice.manifest.json",
-      "lastModified": "2023-08-03T09:16:30.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -275,7 +275,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/asprey-ads.manifest.json",
-      "lastModified": "2023-08-18T06:36:50.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -296,7 +296,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/petplace-ads.manifest.json",
-      "lastModified": "2023-08-21T08:57:29.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -317,7 +317,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/mack-ads.manifest.json",
-      "lastModified": "2023-10-19T11:09:10.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -338,7 +338,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/alexforbes-poster.manifest.json",
-      "lastModified": "2023-08-23T08:29:52.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -359,7 +359,7 @@
     },
     {
       "manifestPath": "/content/screens/states/western-australia/wesco-ads.manifest.json",
-      "lastModified": "2023-08-29T10:33:55.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -380,7 +380,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/delhi/delhi-t3-terminal.manifest.json",
-      "lastModified": "2023-10-06T09:14:19.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -401,7 +401,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/US/Florida/daytona-beach-store.manifest.json",
-      "lastModified": "2023-10-12T10:45:32.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -426,7 +426,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/US/Florida/brooksville-store.manifest.json",
-      "lastModified": "2023-10-12T10:48:09.000Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -451,7 +451,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.manifest.json",
-      "lastModified": "2023-11-23T09:24:43.839Z",
+      "lastModified": "2024-03-20T06:15:39.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -476,7 +476,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.manifest.json",
-      "lastModified": "2023-10-30T14:08:45.000Z",
+      "lastModified": "2024-03-20T06:18:28.202Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -502,6 +502,23 @@
       "externalId": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456",
       "title": "BE St-56 Showroom VW-456 Word",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.html"
+    },
+    {
+      "manifestPath": "/content/screens/assets/publish-assets-doc.manifest.json",
+      "lastModified": "2024-03-20T06:18:29.292Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "assets",
+          "path": "/content/screens/assets"
+        }
+      ],
+      "externalId": "/content/screens/assets/publish-assets-doc",
+      "title": "",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/assets/publish-assets-doc.html"
     }
   ],
   "metadata": {
