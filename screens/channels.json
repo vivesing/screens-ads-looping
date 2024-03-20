@@ -476,7 +476,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.manifest.json",
-      "lastModified": "2024-03-20T06:18:28.202Z",
+      "lastModified": "2024-03-20T06:18:30.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -505,7 +505,7 @@
     },
     {
       "manifestPath": "/content/screens/assets/publish-assets-doc.manifest.json",
-      "lastModified": "2024-03-20T06:18:29.292Z",
+      "lastModified": "2024-03-20T06:18:30.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -519,6 +519,35 @@
       "externalId": "/content/screens/assets/publish-assets-doc",
       "title": "",
       "liveUrl": "https://cba.aem-screens.com/content/screens/assets/publish-assets-doc.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/Europe/Germany/berlin/audi-showroom.manifest.json",
+      "lastModified": "2024-03-20T09:50:02.667Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "Europe",
+          "path": "/content/screens/locations/Europe"
+        },
+        {
+          "title": "Germany",
+          "path": "/content/screens/locations/Europe/Germany"
+        },
+        {
+          "title": "berlin",
+          "path": "/content/screens/locations/Europe/Germany/berlin"
+        }
+      ],
+      "externalId": "/content/screens/locations/Europe/Germany/berlin/audi-showroom",
+      "title": "Audi Showroom",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/audi-showroom.html"
     }
   ],
   "metadata": {
