@@ -9,27 +9,27 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1712238036960,
+  "timestamp": 1712238372724,
   "entries": [
     {
       "path": "/content/screens/locations/Europe/Germany/berlin/lidl-store-1.html",
-      "timestamp": 1712237806000
+      "timestamp": 1712238372608
+    },
+    {
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_197d8de5f3a3b7d4819138ca908df3610cc88742a.jpeg",
+      "timestamp": 1712237934000
     },
     {
       "path": "/content/screens/locations/Europe/Germany/berlin/media_115e989ce2f589fb9929137b34b136a519485c6be.jpeg",
       "timestamp": 1712237609000
     },
     {
-      "path": "/content/screens/assets/vw-suv3.png",
-      "timestamp": 1698673619000
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_1f61faaa56fd105aa77ff6bf9411740ffa3cc2c5d.jpeg",
+      "timestamp": 1712237934000
     },
     {
-      "path": "/media_1746812362b6c68dbc47441c5c1a4db30561da36b.mp4",
-      "timestamp": 1698672546000
-    },
-    {
-      "path": "/content/screens/assets/media_1248268553d8fb34577acd2f2008cbb20939b99a3.jpeg",
-      "timestamp": 1710914232000
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_1735203402c729110bddf3fbed2a95de9fadac663.jpeg",
+      "timestamp": 1712237934000
     }
   ]
 }

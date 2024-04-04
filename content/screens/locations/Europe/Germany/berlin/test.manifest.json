@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1712238037743,
+  "timestamp": 1712238373276,
   "entries": [
     {
       "path": "/content/screens/locations/Europe/Germany/berlin/test.html",
-      "timestamp": 1712238037123
+      "timestamp": 1712238037000
     },
     {
       "path": "/scripts/lib-franklin.js",
