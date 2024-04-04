@@ -548,6 +548,35 @@
       "externalId": "/content/screens/locations/Europe/Germany/berlin/audi-showroom",
       "title": "Audi Showroom",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/audi-showroom.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/Europe/Germany/berlin/lidl-store-1.manifest.json",
+      "lastModified": "2024-04-04T12:51:08.810Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "Europe",
+          "path": "/content/screens/locations/Europe"
+        },
+        {
+          "title": "Germany",
+          "path": "/content/screens/locations/Europe/Germany"
+        },
+        {
+          "title": "berlin",
+          "path": "/content/screens/locations/Europe/Germany/berlin"
+        }
+      ],
+      "externalId": "/content/screens/locations/Europe/Germany/berlin/lidl-store-1",
+      "title": "Audi Showroom",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/lidl-store-1.html"
     }
   ],
   "metadata": {

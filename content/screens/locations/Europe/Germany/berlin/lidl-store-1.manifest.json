@@ -1,0 +1,35 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1712235068851,
+  "entries": [
+    {
+      "path": "/content/screens/locations/Europe/Germany/berlin/lidl-store-1.html",
+      "timestamp": 1712235068810
+    },
+    {
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_195ca28a5d08fd97a0e27026979e91fc05a2b29e2.png",
+      "timestamp": 1712233329000
+    },
+    {
+      "path": "/content/screens/assets/vw-suv3.png",
+      "timestamp": 1698673619000
+    },
+    {
+      "path": "/media_1746812362b6c68dbc47441c5c1a4db30561da36b.mp4",
+      "timestamp": 1698672546000
+    },
+    {
+      "path": "/content/screens/assets/media_1248268553d8fb34577acd2f2008cbb20939b99a3.jpeg",
+      "timestamp": 1710914232000
+    }
+  ]
+}
