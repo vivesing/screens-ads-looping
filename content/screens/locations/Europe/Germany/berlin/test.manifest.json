@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1712237805579,
+  "timestamp": 1712237806461,
   "entries": [
     {
-      "path": "/content/screens/assets/publish-assets-doc.html",
-      "timestamp": 1710915510000
+      "path": "/content/screens/locations/Europe/Germany/berlin/test.html",
+      "timestamp": 1712237806190
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -28,8 +28,8 @@
       "timestamp": 1710915335000
     },
     {
-      "path": "/content/screens/assets/media_1248268553d8fb34577acd2f2008cbb20939b99a3.jpeg?width=750&format=jpeg&optimize=medium",
-      "hash": "1248268553d8fb34577acd2f2008cbb20939b99a3"
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_115e989ce2f589fb9929137b34b136a519485c6be.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "115e989ce2f589fb9929137b34b136a519485c6be"
     },
     {
       "path": "/scripts/delayed.js",
