@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1712237806461,
+  "timestamp": 1712238037743,
   "entries": [
     {
       "path": "/content/screens/locations/Europe/Germany/berlin/test.html",
-      "timestamp": 1712237806190
+      "timestamp": 1712238037123
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -30,6 +30,18 @@
     {
       "path": "/content/screens/locations/Europe/Germany/berlin/media_115e989ce2f589fb9929137b34b136a519485c6be.jpeg?width=750&format=jpeg&optimize=medium",
       "hash": "115e989ce2f589fb9929137b34b136a519485c6be"
+    },
+    {
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_197d8de5f3a3b7d4819138ca908df3610cc88742a.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "197d8de5f3a3b7d4819138ca908df3610cc88742a"
+    },
+    {
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_1f61faaa56fd105aa77ff6bf9411740ffa3cc2c5d.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "1f61faaa56fd105aa77ff6bf9411740ffa3cc2c5d"
+    },
+    {
+      "path": "/content/screens/locations/Europe/Germany/berlin/media_1735203402c729110bddf3fbed2a95de9fadac663.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "1735203402c729110bddf3fbed2a95de9fadac663"
     },
     {
       "path": "/scripts/delayed.js",

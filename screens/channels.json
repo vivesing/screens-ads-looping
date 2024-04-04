@@ -551,7 +551,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/lidl-store-1.manifest.json",
-      "lastModified": "2024-04-04T13:36:45.818Z",
+      "lastModified": "2024-04-04T13:36:46.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -580,7 +580,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/test.manifest.json",
-      "lastModified": "2024-04-04T13:36:46.190Z",
+      "lastModified": "2024-04-04T13:40:37.123Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -604,7 +604,7 @@
         }
       ],
       "externalId": "/content/screens/locations/Europe/Germany/berlin/test",
-      "title": "",
+      "title": "Lidl AddsLidl Adds",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/test.html"
     }
   ],
