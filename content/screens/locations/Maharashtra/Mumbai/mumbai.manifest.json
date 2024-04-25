@@ -9,27 +9,23 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1714011855334,
+  "timestamp": 1714011983025,
   "entries": [
     {
       "path": "/content/screens/locations/Maharashtra/Mumbai/mumbai.html",
-      "timestamp": 1714011046000
+      "timestamp": 1714011982134
     },
     {
-      "path": "/content/screens/locations/Europe/Germany/berlin/media_197d8de5f3a3b7d4819138ca908df3610cc88742a.jpeg",
-      "timestamp": 1712237934000
+      "path": "/content/screens/assets/hunter-350xhuemn.jpeg",
+      "timestamp": 1714011438000
     },
     {
-      "path": "/content/screens/locations/Europe/Germany/berlin/media_115e989ce2f589fb9929137b34b136a519485c6be.jpeg",
-      "timestamp": 1712237609000
+      "path": "/content/screens/assets/wing-man-new-banner.jpeg",
+      "timestamp": 1714011438000
     },
     {
-      "path": "/content/screens/locations/Europe/Germany/berlin/media_1f61faaa56fd105aa77ff6bf9411740ffa3cc2c5d.jpeg",
-      "timestamp": 1712237934000
-    },
-    {
-      "path": "/content/screens/locations/Europe/Germany/berlin/media_1735203402c729110bddf3fbed2a95de9fadac663.jpeg",
-      "timestamp": 1712237934000
+      "path": "/content/screens/assets/service-cost-calculator.jpg",
+      "timestamp": 1714011438000
     }
   ]
 }
