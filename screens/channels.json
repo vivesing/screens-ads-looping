@@ -606,6 +606,31 @@
       "externalId": "/content/screens/locations/Europe/Germany/berlin/test",
       "title": "Lidl AddsLidl Adds",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/test.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/Maharashtra/Mumbai/mumbai.manifest.json",
+      "lastModified": "2024-04-25T02:10:46.714Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "Maharashtra",
+          "path": "/content/screens/locations/Maharashtra"
+        },
+        {
+          "title": "Mumbai",
+          "path": "/content/screens/locations/Maharashtra/Mumbai"
+        }
+      ],
+      "externalId": "/content/screens/locations/Maharashtra/Mumbai/mumbai",
+      "title": "Mumbai",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Maharashtra/Mumbai/mumbai.html"
     }
   ],
   "metadata": {
