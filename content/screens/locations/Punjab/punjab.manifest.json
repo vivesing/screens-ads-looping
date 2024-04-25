@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1714012138180,
+  "timestamp": 1714012138602,
   "entries": [
     {
-      "path": "/content/screens/locations/Maharashtra/Mumbai/mumbai.html",
-      "timestamp": 1714012137625
+      "path": "/content/screens/locations/Punjab/punjab.html",
+      "timestamp": 1714012138379
     },
     {
       "path": "/content/screens/assets/hunter-350xhuemn.jpeg",
@@ -26,6 +26,10 @@
     {
       "path": "/content/screens/assets/service-cost-calculator.jpg",
       "timestamp": 1714011438000
+    },
+    {
+      "path": "/content/screens/assets/miy-riding-jacket.jpg",
+      "timestamp": 1714011548000
     },
     {
       "path": "/content/screens/assets/apparel.jpg",

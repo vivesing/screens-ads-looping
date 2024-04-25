@@ -609,7 +609,7 @@
     },
     {
       "manifestPath": "/content/screens/locations/Maharashtra/Mumbai/mumbai.manifest.json",
-      "lastModified": "2024-04-25T02:26:22.134Z",
+      "lastModified": "2024-04-25T02:28:57.625Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -631,6 +631,27 @@
       "externalId": "/content/screens/locations/Maharashtra/Mumbai/mumbai",
       "title": "Mumbai",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Maharashtra/Mumbai/mumbai.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/Punjab/punjab.manifest.json",
+      "lastModified": "2024-04-25T02:28:58.379Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "Punjab",
+          "path": "/content/screens/locations/Punjab"
+        }
+      ],
+      "externalId": "/content/screens/locations/Punjab/punjab",
+      "title": "Mumbai",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Punjab/punjab.html"
     }
   ],
   "metadata": {
