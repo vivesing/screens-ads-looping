@@ -18,8 +18,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/riverton-branch",
-      "title": "Riverton Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/riverton-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/riverton-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/western-australia/95-william-st-perth-branch.manifest.json",
@@ -39,8 +39,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/95-william-st-perth-branch",
-      "title": "95 William St Perth Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/95-william-st-perth-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/95-william-st-perth-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/victoria/bayswater-branch.manifest.json",
@@ -60,8 +60,8 @@
         }
       ],
       "externalId": "/content/screens/states/victoria/bayswater-branch",
-      "title": "Bayswater Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/victoria/bayswater-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/victoria/bayswater-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/victoria/richmond-branch.manifest.json",
@@ -81,8 +81,8 @@
         }
       ],
       "externalId": "/content/screens/states/victoria/richmond-branch",
-      "title": "Richmond Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/victoria/richmond-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/victoria/richmond-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/tasmania/launceston-branch.manifest.json",
@@ -102,8 +102,8 @@
         }
       ],
       "externalId": "/content/screens/states/tasmania/launceston-branch",
-      "title": "Launceston Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/tasmania/launceston-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/tasmania/launceston-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/tasmania/hobart-branch.manifest.json",
@@ -123,8 +123,8 @@
         }
       ],
       "externalId": "/content/screens/states/tasmania/hobart-branch",
-      "title": "Hobart Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/tasmania/hobart-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/tasmania/hobart-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/south-australia/king-william-st-adelaide-branch.manifest.json",
@@ -144,8 +144,8 @@
         }
       ],
       "externalId": "/content/screens/states/south-australia/king-william-st-adelaide-branch",
-      "title": "King William St Adelaide Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/south-australia/king-william-st-adelaide-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/south-australia/king-william-st-adelaide-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/south-australia/edwardstown-branch.manifest.json",
@@ -165,8 +165,8 @@
         }
       ],
       "externalId": "/content/screens/states/south-australia/edwardstown-branch",
-      "title": "Edwardstown Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/south-australia/edwardstown-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/south-australia/edwardstown-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/queensland/fortitude-valley-branch.manifest.json",
@@ -186,8 +186,8 @@
         }
       ],
       "externalId": "/content/screens/states/queensland/fortitude-valley-branch",
-      "title": "Fortitude Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/queensland/fortitude-valley-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/queensland/fortitude-valley-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/queensland/queen-st-branch.manifest.json",
@@ -207,8 +207,8 @@
         }
       ],
       "externalId": "/content/screens/states/queensland/queen-st-branch",
-      "title": "Queen St Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/queensland/queen-st-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/queensland/queen-st-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/marrickville-branch.manifest.json",
@@ -228,8 +228,8 @@
         }
       ],
       "externalId": "/content/screens/states/new-south-wales/marrickville-branch",
-      "title": "Marrickville Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/new-south-wales/marrickville-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/new-south-wales/marrickville-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/new-south-wales/town-hall-branch.manifest.json",
@@ -249,8 +249,8 @@
         }
       ],
       "externalId": "/content/screens/states/new-south-wales/town-hall-branch",
-      "title": "Town Hall Branch",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/new-south-wales/town-hall-branch.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/new-south-wales/town-hall-branch",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/western-australia/branch-closed-notice.manifest.json",
@@ -270,8 +270,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/branch-closed-notice",
-      "title": "Branch Closed Notice",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/branch-closed-notice.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/branch-closed-notice",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/western-australia/asprey-ads.manifest.json",
@@ -291,8 +291,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/asprey-ads",
-      "title": "Asprey Looping Ads",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/asprey-ads.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/asprey-ads",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/western-australia/petplace-ads.manifest.json",
@@ -312,8 +312,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/petplace-ads",
-      "title": "PetPlace Looping Ads",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/petplace-ads.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/petplace-ads",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/western-australia/mack-ads.manifest.json",
@@ -333,8 +333,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/mack-ads",
-      "title": "Mack Trucks Looping Ads",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/mack-ads.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/mack-ads",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/western-australia/alexforbes-poster.manifest.json",
@@ -354,8 +354,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/alexforbes-poster",
-      "title": "AlexForbes Looping Poster",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/alexforbes-poster.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/alexforbes-poster",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/states/western-australia/wesco-ads.manifest.json",
@@ -375,8 +375,8 @@
         }
       ],
       "externalId": "/content/screens/states/western-australia/wesco-ads",
-      "title": "Wesco Looping Ads",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/states/western-australia/wesco-ads.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/states/western-australia/wesco-ads",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/delhi/delhi-t3-terminal.manifest.json",
@@ -396,8 +396,8 @@
         }
       ],
       "externalId": "/content/screens/locations/delhi/delhi-t3-terminal",
-      "title": "Delhi T3 Terminal Checkin Area",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/delhi/delhi-t3-terminal.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/delhi/delhi-t3-terminal",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/US/Florida/daytona-beach-store.manifest.json",
@@ -421,8 +421,8 @@
         }
       ],
       "externalId": "/content/screens/locations/US/Florida/daytona-beach-store",
-      "title": "Wesco Daytona Beach Store",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/US/Florida/daytona-beach-store.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/US/Florida/daytona-beach-store",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/US/Florida/brooksville-store.manifest.json",
@@ -446,8 +446,8 @@
         }
       ],
       "externalId": "/content/screens/locations/US/Florida/brooksville-store",
-      "title": "Wesco Brooksville Store",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/US/Florida/brooksville-store.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/US/Florida/brooksville-store",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.manifest.json",
@@ -471,8 +471,8 @@
         }
       ],
       "externalId": "/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word",
-      "title": "LCBO 200 Bay St Store Word",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/Canada/Toronto/lcbo-200-bay-st-store-word",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.manifest.json",
@@ -500,8 +500,8 @@
         }
       ],
       "externalId": "/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456",
-      "title": "BE St-56 Showroom VW-456 Word",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/Europe/Germany/berlin/volkswagen-showroom-vw-456",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/assets/publish-assets-doc.manifest.json",
@@ -517,8 +517,8 @@
         }
       ],
       "externalId": "/content/screens/assets/publish-assets-doc",
-      "title": "",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/assets/publish-assets-doc.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/assets/publish-assets-doc",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/audi-showroom.manifest.json",
@@ -546,8 +546,8 @@
         }
       ],
       "externalId": "/content/screens/locations/Europe/Germany/berlin/audi-showroom",
-      "title": "Audi Showroom",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/audi-showroom.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/Europe/Germany/berlin/audi-showroom",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/lidl-store-1.manifest.json",
@@ -575,8 +575,8 @@
         }
       ],
       "externalId": "/content/screens/locations/Europe/Germany/berlin/lidl-store-1",
-      "title": "Lidl Store 1",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/lidl-store-1.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/Europe/Germany/berlin/lidl-store-1",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/Europe/Germany/berlin/test.manifest.json",
@@ -604,8 +604,8 @@
         }
       ],
       "externalId": "/content/screens/locations/Europe/Germany/berlin/test",
-      "title": "Lidl AddsLidl Adds",
-      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Europe/Germany/berlin/test.html"
+      "liveUrl": "https://main--screens-ads-looping--vivesing.hlx.live/content/screens/locations/Europe/Germany/berlin/test",
+      "title": ""
     },
     {
       "manifestPath": "/content/screens/locations/Maharashtra/Mumbai/mumbai.manifest.json",
