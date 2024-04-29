@@ -1,0 +1,31 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1714374585870,
+  "entries": [
+    {
+      "path": "/content/screens/locations/Delhi/re-showroom-123.html",
+      "timestamp": 1714374585773
+    },
+    {
+      "path": "/content/screens/assets/shot-gun-gma-banner-1.jpeg",
+      "timestamp": 1714011820000
+    },
+    {
+      "path": "/content/screens/assets/himalayan-homepage-accessories-miy.jpg",
+      "timestamp": 1714011819000
+    },
+    {
+      "path": "/content/screens/assets/media_1a2a42e126d7db6aee2b9635a4be9f0ab278d0aaa.mp4",
+      "timestamp": 1714374062000
+    }
+  ]
+}

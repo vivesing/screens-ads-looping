@@ -45,6 +45,27 @@
       "externalId": "/content/screens/locations/Delhi/delhi",
       "title": "Delhi",
       "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Delhi/delhi.html"
+    },
+    {
+      "manifestPath": "/content/screens/locations/Delhi/re-showroom-123.manifest.json",
+      "lastModified": "2024-04-29T07:09:45.773Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "locations",
+          "path": "/content/screens/locations"
+        },
+        {
+          "title": "Delhi",
+          "path": "/content/screens/locations/Delhi"
+        }
+      ],
+      "externalId": "/content/screens/locations/Delhi/re-showroom-123",
+      "title": "RE Showroom 123",
+      "liveUrl": "https://cba.aem-screens.com/content/screens/locations/Delhi/re-showroom-123.html"
     }
   ],
   "metadata": {
